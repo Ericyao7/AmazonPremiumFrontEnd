@@ -1,1 +1,1 @@
-Used fot font end demo
+Used for font end demo
